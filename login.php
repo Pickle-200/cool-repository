@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-color:rgb(255, 223, 188);">
+
+
+<div style="text-align: center; background-color: rgb(144, 194, 227); color: white; padding: 3px; width: 90%; margin-inline: auto;">
+    <a href="https://fcsinnovationacademy.fultonschools.org/"><img src="https://cdn.prod.website-files.com/637025730196735a31b5a23b/66df689cb6fbfe87d678a22d_653035c339002e30b360e316_Innovations.png" alt="Innovation Adacamy" style="width:135px;height:125px; float:left;"></a>
+    <a href="https://www.fultonschools.org/"><img src="https://www.concur.com/sites/default/files/acn/case_study_logos/fulton-county-homepage-logo-2.png" alt="FUlton county schools   " style="width:135px; height:125px; float:right; vertical-align:center;"></a>
+    <h1>Innovation Acadamy Club Finder</h1>
+    <p>Student login page - <a href="/workspaces/cool-repository/not_logged.html">Return to logged out view</a></p>
+    <br>
+</div>
+<br>
+<div style="text-allign: center;">
+    <h2>Login</h2>
+    <p>Student id number</p>
+    <form>
+        <label for="num">Student ID:</label><br>
+        <input type="text" id="num" name="num"><br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+
+</body>
+</html>
